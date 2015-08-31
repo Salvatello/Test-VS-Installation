@@ -99,6 +99,9 @@ BOOL CConsoleApplication2Dlg::OnInitDialog()
 
 	// TODO: aggiungere qui inizializzazione aggiuntiva.
 
+	TRACE("\n\n\nciao\n\n\n");
+
+
 	return TRUE;  // restituisce TRUE a meno che non venga impostato lo stato attivo su un controllo.
 }
 
